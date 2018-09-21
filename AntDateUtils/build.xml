@@ -12,7 +12,7 @@
 	<property name="build.dir" location="AntDateUtils/src/bin" />
 
 	<!-- Output, Jar -->
-	<property name="dist.dir" location="AntDateUtils/src/dist" />
+	<property name="dist.dir" location="AntDateUtils/srcdist" />
 
 	<target name="init">
 		<!-- Create the time stamp -->
